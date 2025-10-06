@@ -167,3 +167,7 @@ dmypy.json
 # Project specific
 project.zip
 basic.png
+
+# Generated files
+temp_output/
+generated_project_*.zip
